@@ -14,3 +14,8 @@ My name is Nick Mancari and I'm a Computer Information Systems Technician with o
 
 <img align="left" alt="Go" width="30px" src="https://simpleicons.org/icons/go.svg"/>
 <img align="left" alt="Git" width="30px" src="https://simpleicons.org/icons/git.svg"/>
+<img align="left" alt="Kubernetes" width="30px" src="https://simpleicons.org/icons/kubernetes.svg"/>
+<img align="left" alt="Redis" width="30px" src="https://simpleicons.org/icons/redis.svg"/>
+<img align="left" alt="BASH" width="30px" src="https://simpleicons.org/icons/gnubash.svg"/>
+<img align="left" alt="HTML" width="30px" src="https://simpleicons.org/icons/html5.svg"/>
+<img align="left" alt="CSS" width="30px" src="https://simpleicons.org/icons/css3.svg"/>
