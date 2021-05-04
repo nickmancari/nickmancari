@@ -12,7 +12,10 @@ My name is Nick Mancari and I'm a Computer Information Systems Technician with o
 - ⚡ Fun fact: I love playing guitar and reading!
 
 
-<img align="left" alt="Go" width="30px" src="https://simpleicons.org/icons/go.svg"/>
+<!--<img align="left" alt="Go" width="30px" src="https://simpleicons.org/icons/go.svg"/> --> 
+<svg>
+    <use href="https://simpleicons.org/icons/go.svg" style="--color_fill: #00ADD8;"></use>
+</svg>
 <img align="left" alt="Git" width="30px" src="https://simpleicons.org/icons/git.svg"/>
 <img align="left" alt="Kubernetes" width="30px" src="https://simpleicons.org/icons/kubernetes.svg"/>
 <img align="left" alt="Redis" width="30px" src="https://simpleicons.org/icons/redis.svg"/>
