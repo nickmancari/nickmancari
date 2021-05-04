@@ -20,3 +20,4 @@ My name is Nick Mancari and I'm a Computer Information Systems Technician with o
 <img align="left" alt="HTML" width="30px" src="https://simpleicons.org/icons/html5.svg"/>
 <img align="left" alt="CSS" width="30px" src="https://simpleicons.org/icons/css3.svg"/>
 <img align="left" alt="Apache" width="30px" src="https://simpleicons.org/icons/apache.svg"/>
+<img align="left" alt="Redhat" width="30px" src="https://simpleicons.org/icons/redhat.svg"/>
