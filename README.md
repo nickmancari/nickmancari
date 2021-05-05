@@ -11,6 +11,7 @@ My name is Nick Mancari and I'm a Computer Information Systems Technician with o
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love playing guitar and reading!
 
+<br>
 
 <img align="left" alt="Go" width="30px" src="https://simpleicons.org/icons/go.svg"/>
 <img align="left" alt="Git" width="30px" src="https://simpleicons.org/icons/git.svg"/>
