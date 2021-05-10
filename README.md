@@ -7,7 +7,7 @@ My name is Nick Mancari and I'm a Computer Information Systems Technician with o
 - 🌱 I’m currently learning Go, Kubernetes, and Redis
 - 👯 I’m looking to collaborate on anything written in Go
 - 🤔 I’m looking for help with channels and goroutines
-- 💬 Ask me about my linux command line tools!
+- 💬 Ask me about my Linux Bitch!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love playing guitar and reading!
 
