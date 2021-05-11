@@ -1,4 +1,4 @@
-### Hi there 👋
+### Well hey there! 👋
 
 My name is Nick Mancari and I'm a Computer Information Systems Technician with over 7 years experince in the IT field actively working with Linux servers and IT infrastructure. I like to create things and solve problems. I live in the command line.
 
