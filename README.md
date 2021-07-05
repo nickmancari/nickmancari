@@ -4,7 +4,7 @@ My name is Nick Mancari and I'm a Computer Information Systems Technician with o
 
 
 - 🔭 I’m currently working on <a href="https://github.com/nickmancari/gocean">gocean</a>
-- 🌱 I’m currently learning Go, Kubernetes, and Redis
+- 🌱 I’m currently learning Rust, Go, Kubernetes, and Redis
 - 👯 I’m looking to collaborate on anything written in Go
 - 🤔 I’m looking for help with channels and goroutines
 - 💬 Ask me about Linux Bitch!
