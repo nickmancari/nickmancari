@@ -3,7 +3,7 @@
 My name is Nick Mancari and I'm a Computer Information Systems Technician with over 7 years experince in the IT field actively working with Linux servers and IT infrastructure. I like to create things and solve problems. I live in the command line.
 
 
-- 🔭 I’m currently working on <a href="https://github.com/nickmancari/gocean">gocean</a>
+- 🔭 I’m currently working on <a href="https://github.com/nickmancari/gocean">gocean</a> and <a href="https://github.com/nickmancari/valet">valet</a>
 - 🌱 I’m currently learning Rust, Go, Kubernetes, and Redis
 - 👯 I’m looking to collaborate on anything written in Go
 - 🤔 I’m looking for help with channels and goroutines
