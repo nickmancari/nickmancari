@@ -4,9 +4,8 @@ My name is Nick Mancari and I'm a Support Engineer who likes to make his own too
 
 
 - 🔭 I’m currently working on <a href="https://github.com/nickmancari/gocean">gocean</a> and <a href="https://github.com/nickmancari/valet">valet</a>
-- 🌱 I’m currently learning Rust, Go, Kubernetes, and Redis
-- 👯 I’m looking to collaborate on anything written in Go
-- 🤔 I’m looking for help with channels and goroutines
+- 🌱 I’m currently learning Rust, Go, and Serverless Architecture (Cloudflare Workers)
+- 👯 I’m looking to collaborate on anything written in Go or Rust
 - 😄 Pronouns: he/him
 
 <br><br>
