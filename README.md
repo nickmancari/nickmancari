@@ -11,11 +11,14 @@ My name is Nick Mancari and I'm a Support Engineer who likes to make his own too
 <br><br>
 
 <img align="left" alt="Go" width="30px" src="https://simpleicons.org/icons/go.svg"/>
+<img align="left" alt="Rust" width="30px" src="https://simpleicons.org/icons/rust.svg"/>
+<img align="left" alt="Ruby" width="30px" src="https://simpleicons.org/icons/ruby.svg"/>
 <img align="left" alt="Git" width="30px" src="https://simpleicons.org/icons/git.svg"/>
 <img align="left" alt="BASH" width="30px" src="https://simpleicons.org/icons/gnubash.svg"/>
 <img align="left" alt="HTML" width="30px" src="https://simpleicons.org/icons/html5.svg"/>
 <img align="left" alt="CSS" width="30px" src="https://simpleicons.org/icons/css3.svg"/>
 <img align="left" alt="Apache" width="30px" src="https://simpleicons.org/icons/apache.svg"/>
+<img align="left" alt="Cloudflare" width="30px" src="https://simpleicons.org/icons/cloudflare.svg"/>
 
 <br><br>
 
