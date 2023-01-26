@@ -1,6 +1,6 @@
 ### Well, hey there! 👋
 
-My name is Nick Mancari and I'm a Support Engineer who likes to make his own tools, with over 9 years experince in the IT field actively working with Linux servers and IT infrastructure. I like to create things and solve problems. I live in the command line and I love to contribute to open source projects!
+My name is Nick Mancari and I'm a Support Engineer who likes to make his own tools, with over 9 years experince in tech actively working with Linux servers, IT infrastructure, and Software Development. I like to create things and solve problems. I live in the command line and I love to contribute to open source projects!
 
 <br><br>
 
