@@ -1,6 +1,6 @@
 ### Well, hey there! 👋
 
-My name is Nick Mancari and I'm a Support Engineer who likes to make his own tools, with over 9 years experince in tech actively working with Linux servers, IT infrastructure, and Software Development. I like to create things and solve problems. I live in the command line and I love to contribute to open source projects!
+My name is Nick Mancari and I'm a Software Engineer who likes to make his own tools, with over 9 years experince in tech actively working with Linux servers, IT infrastructure, and Software Development. I like to build things and solve problems. I live in the command line and I love to contribute to open source projects!
 
 <br><br>
 
@@ -10,8 +10,6 @@ My name is Nick Mancari and I'm a Support Engineer who likes to make his own too
 <img align="left" alt="Git" width="30px" src="https://simpleicons.org/icons/git.svg"/>
 <img align="left" alt="BASH" width="30px" src="https://simpleicons.org/icons/gnubash.svg"/>
 <img align="left" alt="HTML" width="30px" src="https://simpleicons.org/icons/html5.svg"/>
-<img align="left" alt="CSS" width="30px" src="https://simpleicons.org/icons/css3.svg"/>
-<img align="left" alt="Apache" width="30px" src="https://simpleicons.org/icons/apache.svg"/>
 <img align="left" alt="Cloudflare" width="30px" src="https://simpleicons.org/icons/cloudflare.svg"/>
 
 <br><br>
